@@ -7,18 +7,22 @@ school = "Streesmutprakan"
 hobby = "Web development"
 
 #Normal print() command
-print("""ภฑิล
+print("""
+------------
+ภฑิล
 เมืองจันทร์
 เลขที่ 9
 38832
 สตรีสทุทรปราการ
 เขียนเว็บ
 ------------""")
-
+print("Seperator")
 #Variable'ed print()
+print("------------")
 print(name)
 print(surname)
 print(no)
 print(student_id)
 print(school)
 print(hobby)
+print("------------")
